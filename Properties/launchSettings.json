@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "OCA_Assignment2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7071",
+      "launchBrowser": false
+    }
+  }
+}
